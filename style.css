@@ -27,3 +27,21 @@
 .institute-explore-bg {
     background-color: #f4fafd;
 }
+
+/* join section  */
+.join-bg {
+    background-color: #289bde;
+}
+
+.reg-btn {
+    color: #289bde;
+    background-color: white;
+    font-size: 20px;
+    padding: 13px 33px;
+    border: none;
+    border-radius: 8px;
+}
+
+.small-text-color {
+    color: #b3d7f6;
+}
