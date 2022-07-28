@@ -1,4 +1,7 @@
 /* banner styles */
+.main-color {
+    color: #289bde;
+}
 
 .banner::before {
     content: "";
@@ -17,5 +20,5 @@
     font-size: 20px;
     padding: 13px 33px;
     border: none;
-    border-radius: 10px;
+    border-radius: 8px;
 }
