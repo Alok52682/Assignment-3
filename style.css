@@ -1,0 +1,21 @@
+/* banner styles */
+
+.banner::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: #000;
+    opacity: 0.7;
+}
+
+.button {
+    color: white;
+    background-color: #289bde;
+    font-size: 20px;
+    padding: 13px 33px;
+    border: none;
+    border-radius: 10px;
+}
